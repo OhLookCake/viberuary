@@ -1,4 +1,4 @@
-VIBEMBER: 01-30 NOVEMBER
+VIBERUARY: 01-28 FEBRUARY 2027
 Vibe code something every day.
 
 01 Magic
@@ -29,8 +29,6 @@ Vibe code something every day.
 26 Redo
 27 Together
 28 Language
-29 Walk
-30 Finish
 
 Take it literally, follow a strange association, or go somewhere else entirely.
-Make a thing. Share it with #vibember. Repeat at your own pace.
+Make a thing. Share it with #viberuary. Repeat at your own pace.

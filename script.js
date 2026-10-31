@@ -10,7 +10,7 @@ pickButton.addEventListener('click', () => {
     const prompt = prompts[index];
     prompt.classList.add('selected');
     document.getElementById('prompt-announcement').textContent =
-        `November ${index + 1}: ${prompt.querySelector('h3').textContent}.`;
+        `February ${index + 1}, 2027: ${prompt.querySelector('h3').textContent}.`;
     prompt.scrollIntoView({ behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'center' });
     previous = index;
 });
